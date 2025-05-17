@@ -32,7 +32,7 @@ int main() {
     
     // 나이 배열 순회하며 나이 작은 순으로 정렬 (나이가 같으면 입력 순서 보존함)
     stable_sort(entries.begin(), entries.end(), [](const auto& a, const auto& b){
-        return get<1>(a) > get<1>(b);   // int 기준 내림차순
+        return get<1>(a) < get<1>(b);   // 나이 기준 오름차순
     });
 
     for (const auto& entry : entries){
