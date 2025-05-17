@@ -15,7 +15,7 @@ int main() {
     // 데이터 입력 받기
     cin >> n;
 
-    // 나이, 이름 배열 생성 
+    // 나이, 이름 벡터 생성 
     vector<int> age(n);
     vector<string> name(n);
 
