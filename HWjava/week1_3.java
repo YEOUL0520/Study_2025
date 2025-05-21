@@ -1,3 +1,5 @@
+package HWjava;
+
 class Solution {
     public int solution(String name) {
         int n = name.length();	// 문자열의 길이
@@ -44,4 +46,9 @@ class Solution {
     	answer += move;
         return answer;
     }
+}
+
+public class week1_3 {
+
+    
 }

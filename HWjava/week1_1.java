@@ -1,3 +1,5 @@
+package HWjava;
+
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -20,7 +22,7 @@ class User{
 	}
 }
 
-public class Main {
+public class week1_1 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		
@@ -52,3 +54,5 @@ public class Main {
 		s.close();
 	}
 }
+
+

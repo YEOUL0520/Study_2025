@@ -1,3 +1,5 @@
+package HWjava;
+
 // 처음에는 그냥 열린괄호 닫힌괄호 갯수만 비교했는데, 
 // 가만히 생각해보니 괄호의 닫힌 개수가 열린 개수보다 크면 이상하다는 생각이 들어서
 // 조건을 추가했다.
@@ -27,7 +29,9 @@ class Solution {
     	}else {
     		return true;
     	}
-    	
-    	
     }
+}
+
+public class week2_1 {
+    
 }
