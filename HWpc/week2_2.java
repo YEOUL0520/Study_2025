@@ -5,7 +5,6 @@
 // 계속 문제가 틀렸다고 떠서 입력과 출력을 분리해서 각각 모두 출력하도록 바꿔야겠다고 생각했다.
 // 그래서 테스트 케이스 별로 결과들을 배열에 넣어서 마지막에 따로 출력값들을 보일 수 있도록 바꾸었다.
 
-//package HWjava;
 
 import java.util.Scanner;
 import java.util.List;
