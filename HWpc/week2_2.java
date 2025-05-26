@@ -99,4 +99,5 @@ public class week2_2 {
             System.out.println(out);
         }
     }
+    
 }
