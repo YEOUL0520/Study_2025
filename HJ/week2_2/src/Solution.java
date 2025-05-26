@@ -1,9 +1,9 @@
 import java.util.Scanner;
-import java.io.FileInputStream;
 import java.util.PriorityQueue;
 
 class Solution
 {
+    // Max Heap -> Tree / node 값이 큰 -> 작 자동 정렬
     // 학생 구조체 생성해서 순번이랑 총점 저장하기
     static class Student {
         int idx;
@@ -16,8 +16,8 @@ class Solution
 
     public static void main(String args[]) throws Exception
     {
-        //System.setIn(new FileInputStream("input.txt"));
-        //System.setOut(new PrintStream(new FileOutputStream("output.txt")));
+        // System.setIn(new FileInputStream("input.txt"));
+        // System.setOut(new PrintStream(new FileOutputStream("output.txt")));
 
         Scanner sc = new Scanner(System.in);
         int T;
@@ -37,7 +37,7 @@ class Solution
                 scores[i] = m * 0.35 + f * 0.45 + a * 0.20;
             }
 
-            // Max Heap 생성 (총점 내림차순)
+            // Max Heap 생성 (총점 내림차순) -> X
             PriorityQueue<Student> maxHeap = new PriorityQueue<>((s1, s2) -> Double.compare(s2.totalScore, s1.totalScore));
 
             for (int i = 0; i < N; i++) {
