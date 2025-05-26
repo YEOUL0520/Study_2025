@@ -30,7 +30,7 @@ public class week2_3 {
             }
             // 출력
             System.out.println("#" + test_case + " " + totalView);
-
+        sc.close();
 
         }
 
