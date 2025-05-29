@@ -31,7 +31,7 @@ class Solution {
 
         return new int[]{maxRank, minRank};
     }
-    //
+    // 로또 순위 정하는 메서드
     private int getRank(int cnt){
         // 개수 6개
         //      맞은 개수
