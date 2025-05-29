@@ -1,4 +1,4 @@
-package HWjava;
+
 
 class Solution {
     public int solution(String name) {
