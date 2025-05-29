@@ -4,14 +4,10 @@
 // 처음에는 1개의 케이스별로 출력이 나오도록 중첩 반복문을 사용해서 접근을 했는데,
 // 계속 문제가 틀렸다고 떠서 입력과 출력을 분리해서 각각 모두 출력하도록 바꿔야겠다고 생각했다.
 // 그래서 테스트 케이스 별로 결과들을 배열에 넣어서 마지막에 따로 출력값들을 보일 수 있도록 바꾸었다.
-
-
-
 import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Collections;
-
 // [2주차] 조교의 성적 매기기 / 중
 // "https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=RECOMMEND_COUNT&selectCodeLang=JAVA&select-1=2&pageSize=10&pageIndex=2"
 public class week2_2 {
@@ -100,4 +96,5 @@ public class week2_2 {
             System.out.println(out);
         }
     }
+    
 }

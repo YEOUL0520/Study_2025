@@ -1,6 +1,5 @@
 
-
-class Solution {
+class Solution1 {
     public int solution(String name) {
         int n = name.length();	// 문자열의 길이
     	int answer = 0;
