@@ -3,15 +3,15 @@ import java.io.FileInputStream;
 
 class Solution
 {
-        public static void main(String args[]) throws Exception
-        {
+    public static void main(String args[]) throws Exception
+    {
 
-                Scanner sc = new Scanner(System.in);
-                int T;
-                T=sc.nextInt();
+        Scanner sc = new Scanner(System.in);
+        int T;
+        T=sc.nextInt();
         sc.nextLine();
 
-                for(int test_case = 0; test_case < T; test_case++) {
+        for(int test_case = 0; test_case < T; test_case++) {
             String s = sc.nextLine();
             int sum = 0;
             int maxSum = 0;
@@ -34,7 +34,7 @@ class Solution
                 maxSum = Math.max(maxSum, Math.max(left, right));
 
             }
-            System.out.println(maxSum);
+        System.out.println(maxSum);
         }
-        }
+    }
 }
