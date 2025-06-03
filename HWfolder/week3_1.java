@@ -1,7 +1,7 @@
 import java.util.*;
 
-class Solution {
-    public int[] solution(int[] lottos, int[] win_nums) {
+class lottosMinMax {
+    public static int[] solution(int[] lottos, int[] win_nums) {
         int zerocount = 0;  // 0개수 저장할 변수
         int matchcount = 0; // 맞은 개수 저장할 변수
 
@@ -33,7 +33,7 @@ class Solution {
 
     }
     // 로또 순위 정하는 메서드
-    private int getRank(int cnt){
+    private static int getRank(int cnt){
         // 개수 6개
         //      맞은 개수
         // 7-   6       = 1등
@@ -50,7 +50,7 @@ public class week3_1 {
         int[] win_nums_main = new int[] {31, 10, 45, 1, 6, 19};
 
         Solution solution = new Solution();
-        System.out.println(Arrays.toString(solution.solution(lottos_main, win_nums_main)));
+        System.out.println(Arrays.toString(lottosMinMax.solution(lottos_main, win_nums_main)));
 
     }
 

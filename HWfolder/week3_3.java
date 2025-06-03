@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.FileInputStream;
 
-class Solution
+class week3_3
 {
 	public static void main(String args[]) throws Exception
 	{

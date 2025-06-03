@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class BoatsWeight {
     public int solution(int[] people, int limit) {
         Arrays.sort(people);
         
