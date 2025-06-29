@@ -1,4 +1,6 @@
-class Solution {
+package week1_3;
+
+class Joistic {
     public int solution(String name) {
         int n = name.length();	// 문자열의 길이
     	int answer = 0;

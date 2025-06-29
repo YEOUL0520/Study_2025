@@ -9,10 +9,10 @@ class BoatsWeight {
         int right = people.length-1;
         
         while(left <= right){
-            if(left == right){
-                boats++;
-                break;
-            }
+//            if(left == right){
+//                boats++;
+//                break;
+//            }
             
             if(people[left] + people[right] <= limit){
                 left++;
