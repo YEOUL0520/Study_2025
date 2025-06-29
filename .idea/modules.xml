@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Study_2025.iml" filepath="$PROJECT_DIR$/Study_2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HJ/week1_1/week1_1.iml" filepath="$PROJECT_DIR$/HJ/week1_1/week1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HJ/week1_2/week1_2.iml" filepath="$PROJECT_DIR$/HJ/week1_2/week1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HJ/week1_3/week1_3.iml" filepath="$PROJECT_DIR$/HJ/week1_3/week1_3.iml" />
+    </modules>
+  </component>
+</project>
