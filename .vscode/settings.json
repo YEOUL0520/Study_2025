@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "vector": "cpp"
-    }
+        "vector": "cpp",
+        "string": "cpp"
+    },
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": []
 }

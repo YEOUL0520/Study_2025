@@ -49,7 +49,7 @@ public class week3_1 {
         int[] lottos_main = new int[] {44, 1, 0, 0, 31, 25};
         int[] win_nums_main = new int[] {31, 10, 45, 1, 6, 19};
 
-        Solution solution = new Solution();
+        lottosMinMax solution = new lottosMinMax();
         System.out.println(Arrays.toString(lottosMinMax.solution(lottos_main, win_nums_main)));
 
     }
