@@ -64,8 +64,5 @@ git commit -m "[1주차] Hello World / 상 / 1분" -m "https://www.acmicpc.net/p
 <br />
 
 ## 📌 참여자와 진행도
-|<img src="https://avatars.githubusercontent.com/u/92625845?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/211655416?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/108114351?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/153744936?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/118596886?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/204812467?v=4" width="100" height="100"/>|<img src="https://avatars.githubusercontent.com/u/182756186?v=4" width="100" height="100"/>|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[YEOUL](https://github.com/YEOUL0520)|[YuMinBee](https://github.com/YuMinBee)|[seohee](https://github.com/sseoh47)|[AHW](https://github.com/NotHyoone)|[Hyelim](https://github.com/hyellm)|[haycho33](https://github.com/haycho33)|[owhat02](https://github.com/owhat02)|
-|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~|<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/><br/>Week01~|
+
 
